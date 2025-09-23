@@ -1,3 +1,6 @@
+-- Exploratory data analysis section.
+
+
 -- data preview
 SELECT * FROM `employee survey` LIMIT 10;
 
